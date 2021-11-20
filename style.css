@@ -1,0 +1,13 @@
+body{
+    background:burlywood;
+   
+}
+.cardk{
+    display: flex;
+}
+div{
+    margin-left: 10px;
+}
+h1{
+text-align: center;
+}
